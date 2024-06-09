@@ -1,0 +1,5 @@
+/Users/alexis/Desktop/proyecto/build/CMakeFiles/STB_IMAGE.dir
+/Users/alexis/Desktop/proyecto/build/CMakeFiles/GLAD.dir
+/Users/alexis/Desktop/proyecto/build/CMakeFiles/sa__game.dir
+/Users/alexis/Desktop/proyecto/build/CMakeFiles/edit_cache.dir
+/Users/alexis/Desktop/proyecto/build/CMakeFiles/rebuild_cache.dir

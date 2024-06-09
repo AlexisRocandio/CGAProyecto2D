@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/STB_IMAGE.dir/src/stb_image.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/stb_image.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/stb_image.cpp",
+  "output": "CMakeFiles/STB_IMAGE.dir/src/stb_image.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/GLAD.dir/src/glad.c.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/glad.c\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/glad.c",
+  "output": "CMakeFiles/GLAD.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/ball_object.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/ball_object.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/ball_object.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/ball_object.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/game.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/game.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/game.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/game.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/game_level.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/game_level.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/game_level.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/game_level.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/game_object.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/game_object.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/game_object.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/game_object.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/objects.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/objects.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/objects.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/objects.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/particle_generator.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/particle_generator.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/particle_generator.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/particle_generator.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/post_processor.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/post_processor.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/post_processor.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/post_processor.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/program.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/program.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/program.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/program.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/resource_manager.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/resource_manager.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/resource_manager.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/resource_manager.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/shader.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/shader.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/shader.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/shader.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/sprite_renderer.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/sprite_renderer.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/sprite_renderer.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/sprite_renderer.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/stb_image.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/stb_image.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/stb_image.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/stb_image.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/text_renderer.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/text_renderer.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/text_renderer.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/text_renderer.cpp.o"
+},
+{
+  "directory": "/Users/alexis/Desktop/proyecto/build",
+  "command": "/usr/bin/clang++  -I/opt/homebrew/include -I/System/Library/Frameworks -I/Users/alexis/Desktop/proyecto/build/configuration -I\"/Users/alexis/Desktop/proyecto/space shooter game/includes\" -F/Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/sa__game.dir/src/sa/game/texture.cpp.o -c \"/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/texture.cpp\"",
+  "file": "/Users/alexis/Desktop/proyecto/space shooter game/src/sa/game/texture.cpp",
+  "output": "CMakeFiles/sa__game.dir/src/sa/game/texture.cpp.o"
+}
+]
